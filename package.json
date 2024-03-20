@@ -1,0 +1,29 @@
+{
+  "name": "orbiting-stars-effect",
+  "version": "1.1.1",
+  "description": "Add a customizable, animated starry background effect to your web pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoschanneliese/orbiting-stars-effect"
+  },
+  "keywords": [
+    "stars",
+    "background",
+    "animation",
+    "customizable",
+    "web-design"
+  ],
+  "author": "Morgan Shephard",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.126.1",
+    "gsap": "^3.6.0",
+    "dat.gui": "^0.7.7",
+    "stats.js": "^0.17.0",
+    "tween.js": "^18.6"
+  }
+}
